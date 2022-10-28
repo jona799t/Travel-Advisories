@@ -1,0 +1,408 @@
+{
+    "denmark": [
+        {
+            "name": "Afghanistan",
+            "travel_advice": "red"
+        },
+        {
+            "name": "Albania",
+            "travel_advice": null
+        },
+        {
+            "name": "Algeria",
+            "travel_advice": "yellow"
+        },
+        {
+            "name": "American Samoa",
+            "travel_advice": null
+        },
+        {
+            "name": "Angola",
+            "travel_advice": null
+        },
+        {
+            "name": "Antigua and Barbuda",
+            "travel_advice": null
+        },
+        {
+            "name": "Armenia",
+            "travel_advice": null
+        },
+        {
+            "name": "Azerbaijan",
+            "travel_advice": null
+        },
+        {
+            "name": "Australia",
+            "travel_advice": "green"
+        },
+        {
+            "name": "The Bahamas",
+            "travel_advice": null
+        },
+        {
+            "name": "Bahrain",
+            "travel_advice": null
+        },
+        {
+            "name": "Bangladesh",
+            "travel_advice": "yellow"
+        },
+        {
+            "name": "Barbados",
+            "travel_advice": null
+        },
+        {
+            "name": "Belarus",
+            "travel_advice": null
+        },
+        {
+            "name": "Belgium",
+            "travel_advice": "green"
+        },
+        {
+            "name": "Belize",
+            "travel_advice": null
+        },
+        {
+            "name": "Benin",
+            "travel_advice": null
+        },
+        {
+            "name": "Bhutan",
+            "travel_advice": null
+        },
+        {
+            "name": "Bolivia",
+            "travel_advice": null
+        },
+        {
+            "name": "Bosnia and Herzegovina",
+            "travel_advice": null
+        },
+        {
+            "name": "Botswana",
+            "travel_advice": null
+        },
+        {
+            "name": "Brazil",
+            "travel_advice": "yellow"
+        },
+        {
+            "name": "Brunei",
+            "travel_advice": null
+        },
+        {
+            "name": "Bulgaria",
+            "travel_advice": "green"
+        },
+        {
+            "name": "Burkina Faso",
+            "travel_advice": "red"
+        },
+        {
+            "name": "Burundi",
+            "travel_advice": null
+        },
+        {
+            "name": "Cambodia",
+            "travel_advice": "yellow"
+        },
+        {
+            "name": "Cameroon",
+            "travel_advice": null
+        },
+        {
+            "name": "Canada",
+            "travel_advice": "green"
+        },
+        {
+            "name": "Chile",
+            "travel_advice": "green"
+        },
+        {
+            "name": "Colombia",
+            "travel_advice": "yellow"
+        },
+        {
+            "name": "Comoros",
+            "travel_advice": null
+        },
+        {
+            "name": "Republic of Congo",
+            "travel_advice": null
+        },
+        {
+            "name": "Democratic Republic of the Congo",
+            "travel_advice": null
+        },
+        {
+            "name": "Costa Rica",
+            "travel_advice": null
+        },
+        {
+            "name": "Cuba",
+            "travel_advice": null
+        },
+        {
+            "name": "Cyprus",
+            "travel_advice": null
+        },
+        {
+            "name": "United Arab Emirates",
+            "travel_advice": "yellow"
+        },
+        {
+            "name": "Central African Republic",
+            "travel_advice": null
+        },
+        {
+            "name": "Dominican Republic",
+            "travel_advice": null
+        },
+        {
+            "name": "Djibouti",
+            "travel_advice": null
+        },
+        {
+            "name": "Dominica",
+            "travel_advice": null
+        },
+        {
+            "name": "Ecuador",
+            "travel_advice": null
+        },
+        {
+            "name": "Egypt",
+            "travel_advice": "yellow"
+        },
+        {
+            "name": "El Salvador",
+            "travel_advice": null
+        },
+        {
+            "name": "Ivory Coast",
+            "travel_advice": null
+        },
+        {
+            "name": "Eritrea",
+            "travel_advice": null
+        },
+        {
+            "name": "Estonia",
+            "travel_advice": "green"
+        },
+        {
+            "name": "Swaziland",
+            "travel_advice": null
+        },
+        {
+            "name": "Ethiopia",
+            "travel_advice": "yellow"
+        },
+        {
+            "name": "Fiji",
+            "travel_advice": null
+        },
+        {
+            "name": "Philippines",
+            "travel_advice": "yellow"
+        },
+        {
+            "name": "Finland",
+            "travel_advice": "green"
+        },
+        {
+            "name": "France",
+            "travel_advice": "green"
+        },
+        {
+            "name": "Gabon",
+            "travel_advice": null
+        },
+        {
+            "name": "Gambia",
+            "travel_advice": "yellow"
+        },
+        {
+            "name": "Georgia",
+            "travel_advice": "green"
+        },
+        {
+            "name": "Ghana",
+            "travel_advice": "yellow"
+        },
+        {
+            "name": "Grenada",
+            "travel_advice": null
+        },
+        {
+            "name": "Greece",
+            "travel_advice": "green"
+        },
+        {
+            "name": "Guatemala",
+            "travel_advice": null
+        },
+        {
+            "name": "Guinea Bissau",
+            "travel_advice": null
+        },
+        {
+            "name": "Guyana",
+            "travel_advice": null
+        },
+        {
+            "name": "Haiti",
+            "travel_advice": null
+        },
+        {
+            "name": "Honduras",
+            "travel_advice": null
+        },
+        {
+            "name": "India",
+            "travel_advice": "yellow"
+        },
+        {
+            "name": "Indonesia",
+            "travel_advice": "yellow"
+        },
+        {
+            "name": "Iraq",
+            "travel_advice": "orange"
+        },
+        {
+            "name": "Iran",
+            "travel_advice": "red"
+        },
+        {
+            "name": "Ireland",
+            "travel_advice": "green"
+        },
+        {
+            "name": "Iceland",
+            "travel_advice": "green"
+        },
+        {
+            "name": "Israel",
+            "travel_advice": "yellow"
+        },
+        {
+            "name": "Italy",
+            "travel_advice": "green"
+        },
+        {
+            "name": "Jamaica",
+            "travel_advice": null
+        },
+        {
+            "name": "Japan",
+            "travel_advice": "green"
+        },
+        {
+            "name": "Jordan",
+            "travel_advice": "yellow"
+        },
+        {
+            "name": "Cape Verde",
+            "travel_advice": null
+        },
+        {
+            "name": "Kazakhstan",
+            "travel_advice": null
+        },
+        {
+            "name": "Kenya",
+            "travel_advice": "yellow"
+        },
+        {
+            "name": "China",
+            "travel_advice": "orange"
+        },
+        {
+            "name": "Kyrgyzstan",
+            "travel_advice": null
+        },
+        {
+            "name": "Kiribati",
+            "travel_advice": null
+        },
+        {
+            "name": "Kosovo",
+            "travel_advice": null
+        },
+        {
+            "name": "Croatia",
+            "travel_advice": "green"
+        },
+        {
+            "name": "Kuwait",
+            "travel_advice": null
+        },
+        {
+            "name": "Laos",
+            "travel_advice": null
+        },
+        {
+            "name": "Lesotho",
+            "travel_advice": null
+        },
+        {
+            "name": "Latvia",
+            "travel_advice": "green"
+        },
+        {
+            "name": "Lebanon",
+            "travel_advice": "yellow"
+        },
+        {
+            "name": "Liberia",
+            "travel_advice": null
+        },
+        {
+            "name": "Libya",
+            "travel_advice": null
+        },
+        {
+            "name": "Liechtenstein",
+            "travel_advice": null
+        },
+        {
+            "name": "Lithuania",
+            "travel_advice": "green"
+        },
+        {
+            "name": "Luxembourg",
+            "travel_advice": null
+        },
+        {
+            "name": "Madagascar",
+            "travel_advice": null
+        },
+        {
+            "name": "Malawi",
+            "travel_advice": null
+        },
+        {
+            "name": "Malaysia",
+            "travel_advice": "yellow"
+        },
+        {
+            "name": "Mali",
+            "travel_advice": "orange"
+        },
+        {
+            "name": "Maldives",
+            "travel_advice": "yellow"
+        },
+        {
+            "name": "Malta",
+            "travel_advice": null
+        },
+        {
+            "name": "Morocco",
+            "travel_advice": "yellow"
+        }
+    ]
+}
