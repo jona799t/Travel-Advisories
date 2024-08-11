@@ -16,3 +16,9 @@ A webscraper scraping travel advice from different countries.
 ![HRV](maps/HRV.svg)
 ### Hungary
 ![HUN](maps/HUN.svg)
+### Indonesia
+![IDN](maps/IDN.svg)
+### Ireland
+![IRL](maps/IRL.svg)
+### United States
+![USA](maps/USA.svg)
