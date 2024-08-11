@@ -1,12 +1,11 @@
-import travel_advisories
+from advisories import australia, austria, bulgaria, canada, croatia, denmark, finland, germany, hongkong, hungary, indonesia, ireland, united_states
 import json
 
-try:
-    travelAdvisories = json.loads(open("travel_advisories.json").read())
-except FileNotFoundError:
-    open("travel_advisories.json", "w").write("{\n\n}")
-    travelAdvisories = json.loads(open("travel_advisories.json").read())
+travel_advisories = [indonesia, ireland, united_states]
+advise = {}
+for travel_advisory in travel_advisories:
+    advise[travel_advisory.ISO] = {}
+    for country_advise in travel_advisory.travel_advise():
+        advise[travel_advisory.ISO][country_advise["ISO_A3"]] = country_advise
 
-travelAdvisories["denmark"] = travel_advisories.denmark()
-open("travel_advisories.json", "w").write(json.dumps(travelAdvisories, indent=4))
-
+print(json.dumps(advise))
